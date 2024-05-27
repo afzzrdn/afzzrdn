@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afzaal</h1>
 <h3 align="center">I am a Full-Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [muhammadafzaal.com](muhammadafzaal.com)
+- 👨‍💻 All of my projects are available at [muhammadafzaal.com](https://muhammadafzaal.com)
 
 - 📫 How to reach me **mhmdafz78@gmail.com**
 
