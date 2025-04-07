@@ -11,7 +11,7 @@
 <div align="center">
 
  
-🌱 I’m currently learning **Framework, Course, etc**
+🌱 I’m currently learning **Web3, 3D Website, Mobile Programming, and Web-Based AI**
 
 👨‍💻 All of my projects are available at [My Website](https://muhammadafzaal.com)
 
