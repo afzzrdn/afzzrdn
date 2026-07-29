@@ -1,7 +1,3 @@
-<!-- <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=rosselvert&style=for-the-badge"/>
-</div> -->
-
 > **my portfolio:** `https://rosselvert.com` <br>
 > **working with:** `.rs` `.cpp` `.py` `.js` `.ts`
 
