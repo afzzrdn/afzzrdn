@@ -20,7 +20,3 @@ C++              25 hrs 59 mins        ██_______________________   06.68 %
 ```
 
 <!--END_SECTION:waka-->
-
-<img src="https://github.com/user-attachments/assets/0eefd63b-db61-43ff-ab9a-34847d90c56a" width="100%"/>
-
-
