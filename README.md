@@ -4,7 +4,7 @@ fn main() {
     let languages: Vec<&str>= vec!["rust", "python"];
 
     println!("hi, i'm {}", name);
-    println!("i'm working with {}", languages.join(", "))
+    println!("languages used: {}", languages.join(", "))
 }
 ```
 
