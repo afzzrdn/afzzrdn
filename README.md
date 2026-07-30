@@ -1,4 +1,4 @@
-> **my portfolio:** `https://rosselvert.com` <br>
+> **my portfolio:** `https://rosselvert.vercel.app` <br>
 > **working with:** `.rs` `.cpp` `.py` `.js` `.ts`
 
 <br>
