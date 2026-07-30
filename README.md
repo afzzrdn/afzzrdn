@@ -16,3 +16,4 @@ C++              25 hrs 59 mins        ██_______________________   06.65 %
 ```
 
 <!--END_SECTION:waka-->
+<img width="735" height="200" alt="WhatsApp Image 2026-07-30 at 09 08 41" src="https://github.com/user-attachments/assets/9b01d767-0f60-4e5f-ab4a-97ffc9f1e47c" />
