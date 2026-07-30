@@ -1,6 +1,5 @@
 {
   "image": "https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-index-content-uploads-10.png",
-  "removeBackground": true
   "sections": [
     {
       "title": "{{username}}@github",
@@ -9,7 +8,6 @@
         { "key": "Location", "value": "{{location}}" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "{{company}}" }
       ]
     },
     {
@@ -20,18 +18,10 @@
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
+        { "key": "Hobbies.Software", "value": "Software Development, AI/ML" },
         { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
       ]
     },
-    {
-      "title": "- Contact",
-      "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
-      ]
-    }
   ],
   "stats": {
     "title": "- GitHub Stats",
