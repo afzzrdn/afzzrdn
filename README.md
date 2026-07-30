@@ -14,3 +14,4 @@ C++              25 hrs 59 mins        ██_______________________   06.65 %
 
 <!--END_SECTION:waka-->
 
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=rosselvert&config=https%3A%2F%2Fraw.githubusercontent.com%2Frosselvert%2Frosselvert%2Fmain%2Fneofetch.json)
