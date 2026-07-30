@@ -1,5 +1,12 @@
-> hi, i'm Rosselvert <br>
-> **working with:** `.rs` `.cpp` `.py` `.js` `.ts`
+```rust
+fn main() {
+    let name: String = String::from("Rosselvert");
+    let languages: Vec<&str>= vec!["rust", "python"];
+
+    println!("hi, i'm {}", name);
+    println!("i'm working with {}", languages.join(", "))
+}
+```
 
 <!--START_SECTION:waka-->
 
