@@ -1,8 +1,5 @@
-> **my portfolio:** `https://rosselvert.vercel.app` <br>
+> hi, i'm Rosselvert <br>
 > **working with:** `.rs` `.cpp` `.py` `.js` `.ts`
-
-<br>
-
 
 <!--START_SECTION:waka-->
 
