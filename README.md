@@ -1,10 +1,12 @@
 ```rust
 fn main() {
     let name: String = String::from("Rosselvert");
-    let languages: Vec<&str>= vec!["rust", "python", "c++"];
+    let languages: Vec<&str> = vec!["rust", "python", "c++"];
+    let interest: Vec<&str> = vec!["Distributed System", "System Programming", "AI/ML"];
 
     println!("hi, i'm {}", name);
-    println!("languages used: {}", languages.join(", "));
+    println!("i'm working with: {}", languages.join(", "));
+    println!("i have an interest in: {}", interest.join(", ");
 }
 ```
 
