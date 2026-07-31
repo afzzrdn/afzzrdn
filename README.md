@@ -1,16 +1,4 @@
-<img width="1735" height="345" alt="WhatsApp Image 2026-07-30 at 09 08 41" src="https://github.com/user-attachments/assets/f53dd0ac-4fb5-4d0d-a3d6-dd77b745d4aa" />
 
-```rust
-fn main() {
-    let name: String = String::from("Rosselvert");
-    let languages: Vec<&str> = vec!["rust", "python", "c++"];
-    let interest: Vec<&str> = vec!["Distributed System", "System Programming", "AI/ML"];
-
-    println!("hi, i'm {}", name);
-    println!("i'm working with: {}", languages.join(", "));
-    println!("i have an interest in: {}", interest.join(", ");
-}
-```
 
 <!--START_SECTION:waka-->
 
