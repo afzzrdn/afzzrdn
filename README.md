@@ -13,12 +13,12 @@ fn main() {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 348 hrs
+Total Time: 226 hrs 59 mins
 
-TypeScript       145 hrs 13 mins       ██████████_______________   41.73 %
-Rust             42 hrs 15 mins        ███______________________   12.14 %
-C++              25 hrs 54 mins        ██_______________________   07.44 %
-Python           14 hrs 19 mins        █________________________   04.11 %
+Rust             42 hrs 17 mins        █████____________________   18.63 %
+C++              25 hrs 54 mins        ███______________________   11.41 %
+TypeScript       20 hrs 17 mins        ██_______________________   08.94 %
+Python           14 hrs 20 mins        ██_______________________   06.32 %
 ```
 
 <!--END_SECTION:waka-->
